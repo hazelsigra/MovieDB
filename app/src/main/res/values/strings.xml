@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="btn_hit">HIT API</string>
+    <string name="img">img</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Sub Title</string>
+</resources>
